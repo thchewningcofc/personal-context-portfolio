@@ -50,10 +50,11 @@ personal-context-portfolio/
 ├── README.md                    ← you are here
 ├── GETTING-STARTED.md           ← step-by-step for both paths
 ├── templates/                   ← empty templates with interview protocols
-├── examples/                    ← filled-out examples for three personas
+├── examples/                    ← filled-out examples for four personas
 │   ├── knowledge-worker/
 │   ├── executive/
-│   └── entrepreneur/
+│   ├── entrepreneur/
+│   └── security-professional/
 ├── wiring/                      ← guides for connecting your portfolio to AI tools
 └── interview-protocol/
     └── agent-system-prompt.md   ← the full system prompt from the web app
