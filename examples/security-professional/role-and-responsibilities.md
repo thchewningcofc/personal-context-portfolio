@@ -38,3 +38,40 @@ I also support secure operations functions such as incident response coordinatio
 ## Reporting Structure
 
 I serve within CGFS and partner across security, infrastructure, and application teams. I function as a lead security contributor for control assessments and access governance workflows.
+
+## Draft Governance Charter Text (CIO-ISSO, CGFS)
+
+### Purpose
+
+The CIO-ISSO function establishes and enforces the security governance framework for CGFS financial and administrative systems, ensuring confidentiality, integrity, availability, and auditability of mission-critical processes.
+
+### Scope
+
+This charter applies to enterprise and bureau-managed platforms supporting financial, acquisition, grants, and administrative operations, including associated integrations, reporting layers, and automation capabilities.
+
+### Authority and Accountability
+
+- Define security standards, minimum control baselines, and implementation guardrails for in-scope systems.
+- Require evidence of compliance for RMF, ATO, and continuous monitoring activities.
+- Enforce access governance requirements, including least privilege, separation of duties, and periodic recertification.
+- Escalate unresolved security risks through established governance bodies and leadership channels.
+
+### Governance Bodies and Decision Rights
+
+- **Technical Review Board (TRB):** validates architecture and change proposals for security-by-design alignment.
+- **Configuration/Change Control Board:** approves production changes with documented risk, rollback, and testing artifacts.
+- **QMS Process Owners:** own process conformance and continuous improvement actions tied to security outcomes.
+
+### Policy Alignment
+
+The CIO-ISSO office aligns implementation with applicable federal and departmental requirements (e.g., FISMA, NIST RMF controls, FFMIA, DATA Act, and relevant FAM guidance) and embeds measurable controls into operating procedures.
+
+### Operating Model
+
+- Integrate security requirements early in planning and SDLC phases.
+- Monitor control health through KPIs, POA&M governance, and recurring management reviews.
+- Maintain audit-ready evidence repositories with clear control ownership and review cadence.
+
+### Review Cadence
+
+This charter is reviewed at least annually, or sooner when regulations, mission priorities, or system architecture materially change.
